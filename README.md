@@ -1,4 +1,7 @@
-## Hi there 👋
+## About Me
+- CS major at Kent State, OH
+- Interested in Backend and Full Stack development
+- Do check out: [Canvas Notify Me](https://github.com/Yug3737/canvasNotifyMe)
 
 <!--
 **Yug3737/Yug3737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
