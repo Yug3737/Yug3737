@@ -23,7 +23,7 @@ Make a round trip here first: [Canvas Notify Me](https://canvasnotifyme.onrender
 ![Flask - Python](https://img.icons8.com/?size=100&id=5mbMwDZ796xj&format=png&color=000000)
 ![NodeJS - Javacscript](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
 ![Express - Javascript](https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000)
-![Sequelize - SQL ORM]()
+<!-- ![Sequelize - SQL ORM]() -->
 
 ### Dev tools
 ![Git version control](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
