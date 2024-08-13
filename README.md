@@ -1,5 +1,5 @@
 ## Make it work, make it right, make it fast. (Kent Beck)
-Make a round trip here first: [Canvas Notify Me](https://canvasnotifyme.onrender.com)
+Make a round trip here first: [Canvas Notify Me](https://canvas-notify-me.vercel.app/)
 
 ## Who I am
 - CS student at Kent State, OH.
