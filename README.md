@@ -1,15 +1,15 @@
 ## Make it work, make it right, make it fast. (Kent Beck)
-Make a round trip here first: [Canvas Notify Me](https://canvas-notify-me.vercel.app/)
 
 ## Who I am
 - CS student at Kent State, OH.
-- Interested in Backend/Full-stack roles
+- Interested in Backend, AI and ML roles.
 ## What I do
-- Currently learning AI, Algorithms and Databases
-- Working on Canvas Homework notification app, linked above
+- Currently programming Qt/Qml for eye tracking research.
+- Working on misinformation detection for CS capstone.
 ## What I perform
 - Kent State Space Mission Video: [Ecplise 2024](https://youtu.be/OMQ-FivvlIg?feature=shared)
 - Canvas Notify Me: [Repo here](https://github.com/Yug3737/canvasNotifyMe)
+- 
 ## What I know
 ### Languages and Databases
 ![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)
@@ -23,7 +23,6 @@ Make a round trip here first: [Canvas Notify Me](https://canvas-notify-me.vercel
 ![Flask - Python](https://img.icons8.com/?size=100&id=5mbMwDZ796xj&format=png&color=000000)
 ![NodeJS - Javacscript](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
 ![Express - Javascript](https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000)
-<!-- ![Sequelize - SQL ORM]() -->
 
 ### Dev tools
 ![Git version control](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
