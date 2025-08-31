@@ -9,7 +9,7 @@
 ## What I perform
 - Kent State Space Mission Video: [Ecplise 2024](https://youtu.be/OMQ-FivvlIg?feature=shared)
 - Canvas Notify Me: [Repo here](https://github.com/Yug3737/canvasNotifyMe)
-- 
+
 ## What I know
 ### Languages and Databases
 ![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)
