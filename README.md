@@ -1,5 +1,5 @@
 ## Make it work, make it right, make it fast. (Kent Beck)
-
+<!-- 
 ## Who I am
 - CS student at Kent State, OH.
 - Interested in Backend, AI and ML roles.
@@ -37,7 +37,7 @@
 ![RStudio](https://img.icons8.com/?size=100&id=YYhSxUUW8osK&format=png&color=000000)
 ![Markdown](https://img.icons8.com/?size=100&id=21827&format=png&color=000000)
 
-
+-->
 <!--
 **Yug3737/Yug3737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
